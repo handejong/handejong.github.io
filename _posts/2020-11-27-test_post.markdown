@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Test Post"
+date:   2020-11-27 08:24:01 -0800
+categories: test
+excerpt_separator: <!--more--> 
+---
+
+
+THIS IS A TEST of a short post.
+
+
+<!--more-->
