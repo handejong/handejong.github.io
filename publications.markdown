@@ -27,10 +27,11 @@ J.W. de Jong, L.J.M.J. Vanderschuren, R.A.H. Adan (2012) [Towards an animal mode
 R. Pandit, J.W. de Jong, L.J.M.J. Vanderschuren, R.A.H. Adan (2011) [Neurobiology of overeating and obesity: the role of melanocortins and beyond.](https://www.sciencedirect.com/science/article/abs/pii/S0014299911000926) Eur J Pharmacol 1:28-42.
 
 
-### In the news
+### In the News
+
+['Het fijne gevoel is een waarneming van smaak'](https://www.nrc.nl/advertentie/royal-cosun/het-fijne-gevoel-is-een-waarneming-van-smaak) (Dutch) NRC November 2020
 
 [Dopamine’s yin-yang personality: It’s an upper and a downer](https://news.berkeley.edu/2018/12/10/dopamines-yin-yang-personality-its-an-upper-and-a-downer/) Berkeley News, December 2018
-
 
 [Suiker is belonend, maar minder verslavend dan drugs](https://www.volkskrant.nl/wetenschap/suiker-is-belonend-maar-minder-verslavend-dan-drugs~b9e6497e/?referer=https%3A%2F%2Fwww.google.com%2F) (Dutch) Volkskrant July 2015
 
