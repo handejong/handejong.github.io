@@ -24,7 +24,7 @@ email: j.w.dejong@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Johannes (Han) de Jong is a neuroscientist at UC Berkeley and a data scientist interested in Bayesian statistics, finance, and NLP.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://handejong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Han_de_Jong
 github_username:  handejong
 show_excerpts: true

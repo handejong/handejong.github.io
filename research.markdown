@@ -18,7 +18,7 @@ This work is supported by the [Brain & Behavior Research Foundation](https://www
 
 ### Heterogeneity within the Mesolimbic Dopamine System
 
-Dopamine neurons projecting from the Ventral Tegmental Area (VTA) to the Nucleus Accumbens (NAc) are involved in the signaling of salient pleasant experiences as well as the cues (signals) that predict them. However, in our recent [neuron publication](https://www.sciencedirect.com/science/article/pii/S0896627318309966) we showed that a subset of dopamine neurons projecting to the ventral-medial NAc is excited by aversive events and the cues that predict them. 
+Dopamine neurons projecting from the Ventral Tegmental Area (VTA) to the Nucleus Accumbens (NAc) are involved in the signaling of salient pleasant experiences as well as the cues (signals) that predict them. However, in our recent [publication](https://www.sciencedirect.com/science/article/pii/S0896627318309966) we showed that a subset of dopamine neurons projecting to the ventral-medial NAc is excited by aversive events and the cues that predict them. 
 
 The work was featured on the CellPress Youtube channel.
 <br/>
