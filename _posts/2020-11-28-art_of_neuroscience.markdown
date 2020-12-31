@@ -24,7 +24,7 @@ The VTA is one of two major sources of dopamine in the brain. The other source i
 <br/>
 <br/>
 
-The nucleus accumbens is a major site of dopamine release in the brain. We think that dopamine release in this nucleus plays an important role in reward processing and learning. In the picure bellow I again used pseudo-typed rabies virus to map neural pathways. In this case I mapped the connection from the the hippocampus (a brain region important for memorry and spacial awareness) to the nucleus accumbens. The picture was published in [Interstellate, volume 1](https://pub.lucidpress.com/Interstellate_Volume1/#vZdpTQNXsg4T.).
+The nucleus accumbens is a major site of dopamine release in the brain. We think that dopamine release in this nucleus plays an important role in reward processing and learning. In the picure bellow I again used pseudo-typed rabies virus to map neural pathways. In this case I mapped the connection from the hippocampus (a brain region important for memorry and spacial awareness) to the nucleus accumbens. The picture was published in [Interstellate, volume 1](https://pub.lucidpress.com/Interstellate_Volume1/#vZdpTQNXsg4T.).
 
 <center>
 <br/>
