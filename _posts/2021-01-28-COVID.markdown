@@ -6,7 +6,7 @@ categories: COVID Python
 excerpt_separator: <!--more-->
 ---
 
-"2 million people died of COVID", or "The US has surpassed 25 million cases" - Despite the fact that more people die from COVID <i>every day</i> than died on 9/11, these numbers just don't seem to make the impression anymore like they did at the beginning of the pandemic. I made these animation to put these numbers into perspective, and to try and wrap my head around them. If you're interested in making your own, I share the code below.
+"2 million people died of COVID" or "The US has surpassed 25 million cases" - Despite the fact that more people die from COVID <i>every day</i> than died on 9/11, these numbers just don't seem to make the impression anymore like they did at the beginning of the pandemic. I made these animations to put these numbers into perspective, and to try and wrap my head around them. If you're interested in making your own, I share the code below.
 
 These blue squares represent the entire population of a country. Every blue dot stands for a certain number of people. Every orange dot represents that same number of people after they are infected with COVID, while the red dots refer to the COVID death toll.
 
