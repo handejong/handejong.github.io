@@ -19,9 +19,13 @@ This is my home country, The Netherlands:
 
 <img src="/assets/COVID_Netherlands.gif" alt="COVID_Netherlands" />
 
-And Sweden, another country that was heavily hit:
+Sweden, another country that was heavily hit:
 
 <img src="/assets/COVID_Sweden.gif" alt="COVID_Sweden" />
+
+And check out the amazing vaccination effort in Israel:
+
+<img src="/assets/COVID_Israel.gif" alt="COVID_Israel" />
 
 You can make your own visualizations like these from any country using the Python code described below. The only libraries you'll need are Matplotlib, Numpy, & Pandas. To make the final visualization you'll need to have some library installed to make either a GIF or a video. On my system (Ubuntu) I use FFmpeg, but you might have Pillow installed by default with Python or use ImageMagick, alternatively. 
 
@@ -123,7 +127,7 @@ Finally, we do the actual animating. This is done using the animate module of Ma
 
 ```python
 ani = animation.FuncAnimation(fig, updater, frames = range(len(data)),\
- interval = time_step, repeat = False, blit = True)
+ interval = 10, repeat = False, blit = True)
 ```
 
 We use the save method to save to a GIF (the method will understand that from the file extension). This method will probably automatically grab whatever library you have installed on your system to make the GIF (e.g., FFmpeg or Pillow), however you can also specify one using 'writer' argument (e.g., writer='imagemagick'):
