@@ -13,7 +13,7 @@ I design, build, and program fiber scopes for <i>in-vivo</i> calcium imaging and
 
 In addition, I work on a variety of data science projects. I'm specifically interested in (Bayesian) statistical analysis of freely available datasets, finance data and social media analysis.
 
-I'm originally from The Netherlands but I currently live in San Francisco. Last summer, my fiancé and I were forced to cancel our in-person wedding because of the pandemic, and [got married on zoom instead](https://wedfuly.com/pandemic-wedding-virtual-katherine-woodward/). It was the best thing ever.
+I'm originally from The Netherlands but I currently live in San Francisco. Last summer, my fiancée and I were forced to cancel our in-person wedding because of the pandemic, and [got married on zoom instead](https://wedfuly.com/pandemic-wedding-virtual-katherine-woodward/). It was the best thing ever.
 
 [comment]: # (Work on including examples )
 
