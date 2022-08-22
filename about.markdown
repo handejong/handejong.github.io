@@ -17,5 +17,4 @@ I'm originally from The Netherlands but I currently live in San Francisco. Last 
 
 [comment]: # (Work on including examples )
 
-[Download CV](/assets/CV_JWdeJong.pdf)
 
