@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visualizing COVID (+Code)"
+title:  "Visualizing COVID"
 date:   2021-01-28 12:40:01 -0800
 categories: COVID Python
 excerpt_separator: <!--more-->
