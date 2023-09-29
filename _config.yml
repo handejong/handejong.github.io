@@ -21,11 +21,11 @@
 title: Han de Jong
 author: Johannes W. de Jong
 email: j.w.dejong@berkeley.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Johannes (Han) de Jong is a neuroscientist at UC Berkeley and a data scientist interested in statistics, finance, and NLP.
+description: >
+  Johannes (Han) de Jong is a neuroscientist at UC Berkeley and a freelance data scientist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://handejong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Han_de_Jong
+linkedin_username: han-de-jong
 github_username:  handejong
 show_excerpts: true
 
@@ -33,6 +33,7 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -5,25 +5,26 @@ permalink: /research/
 ---
 
 
-### The Neurobiology of Self-Control
+### The role of dopamine in the processing of aversive events
+Dopamine neurons are traditionally thought of as being involved in the signaling of salient pleasant experiences as well as the cues (signals) that predict them. However, in a [recent publication](https://www.sciencedirect.com/science/article/pii/S0896627318309966) we showed that there exist a particular subset of dopamine neurons that are excited by aversive events and the cues that predict them. We did this by selectively recording from different dopamine projections using [fiber photometry]({% post_url 2023-09-27-fip_system %}). We then mapped the inputs onto these neurons to identify the source of the aversive information and identified the Lateral Hypothalamus (LH) as a major contributor.
 
-Why is it difficult to lose weight or to quit smoking? These are questions that millions of people ask themselves when they try to control their own food intake or kick a bad habit.
+To give you an idea of what this research looks like in practice I include the video below. In this video a mouse is seen freely exploring a rectangular arena. In the top-right corner of this arena is something that has an unpleasant smell to the mouse (formaldehyde). Driven by curiosity the mouse does go over to that corner several times but runs away quickly every time after smelling the formaldehyde. Watch what happens to the neural activity in LH neurons that project to the VTA (depicted in green on the right) during this behavior:
 
-My research focusses on the neurobiology of self-control. I’m interested in how stimuli in our environment (for instance the smell or appearance of tasty foods) influence our behavior and how we can exert control over the urges and cravings induced by these environmental cues.
+<video width="100%" controls>
+  <source src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627318309966-mmc5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-I’ve previously studied self-control in the context of [eating addiction](https://www.sciencedirect.com/science/article/pii/S2352154616300638) and I’ve studied how manipulations of the dopamine system influence [motivation for and control over food and drug consumption.](https://www.nature.com/articles/npp201560) Currently, as a postdoc at UC Berkeley I combine in-vivo and ex-vivo electrophysiology with calcium imaging and optogenetics to explore the interaction of dopamine and glutamate afferents to different sub-regions of the Nucleus Accumbens in reward seeking.
+ For a video summary of this work, [Click here](https://www.youtube.com/watch?v=LRc_W9xrLW8) 
 
-This work is supported by the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
+### The role of dopamine in motivation for food and drugs of abuse
+
+"Why is it so challenging to lose weight or quit smoking? Millions grapple with these questions as they strive to regulate their eating habits or break away from addiction. I am particularly fascinated by how environmental stimuli—like the aroma or sight of appetizing food—sway our actions. Furthermore, I'm keen on understanding how we can master the cravings and impulses triggered by these cues. My prior research delved into self-control in the realm of [eating addiction](https://www.sciencedirect.com/science/article/pii/S2352154616300638) and explored how the dopamine system's alterations can affect [motivation for and control over food and drug intake](https://www.nature.com/articles/npp201560). Presently, at UC Berkeley and backed by the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/), I combine in-vivo and ex-vivo electrophysiology with calcium imaging and optogenetics with a goal to uncover how the Nucleus Accumbens integrates dopaminergic and glutamatergic signals to drive reward-seeking based on cues.
+
+On a related note, for those intrigued by the power of habits and their influence on our lives, I highly recommend ['The Power of Habit'](https://charlesduhigg.com/books/the-power-of-habit/) by Charles Duhigg. Duhigg not only delves into the neuroscience of habits and the role of the dopamine system, but he also highlights how marketers and civil-rights pioneers have harnessed our habits to guide our behavior."
 
 
-### Heterogeneity within the Mesolimbic Dopamine System
 
-Dopamine neurons projecting from the Ventral Tegmental Area (VTA) to the Nucleus Accumbens (NAc) are involved in the signaling of salient pleasant experiences as well as the cues (signals) that predict them. However, in our recent [publication](https://www.sciencedirect.com/science/article/pii/S0896627318309966) we showed that a subset of dopamine neurons projecting to the ventral-medial NAc is excited by aversive events and the cues that predict them. 
 
-The work was featured on the CellPress Youtube channel.
-<br/>
-<br/>
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LRc_W9xrLW8" frameborder="0" allowfullscreen></iframe>
-</center>
+
