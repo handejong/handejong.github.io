@@ -9,6 +9,8 @@ Below is an overview of key publications. For a complete overview see [Google Sc
 ## Selected Publications
 
 # Heterogeneity within the dopamine system:
+J.W. de Jong, Y. Liang, J.P.H. Verharen, K.M. Fraser & S. Lammel (2023) State and temporal derivative encoding in parallel mesoaccumbal dopamine pathways. Nature Neuroscience. (in press)
+
 J.W. de Jong, K.M. Fraser & S. Lammel (2022) [Mesoaccumbal Dopamine Heterogeneity: What Do Dopamine Firing and Release Have to Do with It?](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-110920-011929) Annual Review of Neuroscience
 
 # The role of dopamine in the processing of aversive events:
