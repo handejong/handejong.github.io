@@ -9,9 +9,9 @@ Below is an overview of key publications. For a complete overview see [Google Sc
 ## Selected Publications
 
 # Heterogeneity within the dopamine system:
-J.W. de Jong, Y. Liang, J.P.H. Verharen, K.M. Fraser & S. Lammel (2023) State and temporal derivative encoding in parallel mesoaccumbal dopamine pathways. Nature Neuroscience. (in press)
+J.W. de Jong, Y. Liang, J.P.H. Verharen, K.M. Fraser & S. Lammel (2024) [State and rate-of-change encoding in parallel mesoaccumbal dopamine pathways](https://www.nature.com/articles/s41593-023-01547-6) Nature Neuroscience.
 
-J.W. de Jong, K.M. Fraser & S. Lammel (2022) [Mesoaccumbal Dopamine Heterogeneity: What Do Dopamine Firing and Release Have to Do with It?](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-110920-011929) Annual Review of Neuroscience
+J.W. de Jong, K.M. Fraser & S. Lammel (2022) [Mesoaccumbal Dopamine Heterogeneity: What Do Dopamine Firing and Release Have to Do with It?](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-110920-011929) Annual Review of Neuroscience.
 
 # The role of dopamine in the processing of aversive events:
 H. Yang, J.W. de Jong, I. Cerniauskas, J.R. Peck, B.K. Lim, H. Gong, H.L. Fields & S. Lammel (2021) [Pain modulates dopamine neurons via a spinal–parabrachial–mesencephalic circuit](https://www.nature.com/articles/s41593-021-00903-8) Nature Neuroscience.
